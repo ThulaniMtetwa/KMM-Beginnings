@@ -1,0 +1,4 @@
+com.example.dailpulsepractice.android.test.androidApp-androidTest-0 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/generated/res/resValues/androidTest/debug
+com.example.dailpulsepractice.android.test.androidApp-mergeDebugAndroidTestResources-1 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.dailpulsepractice.android.test.androidApp-mergeDebugAndroidTestResources-2 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.dailpulsepractice.android.test.androidApp-merged_res-3 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/intermediates/merged_res/debugAndroidTest

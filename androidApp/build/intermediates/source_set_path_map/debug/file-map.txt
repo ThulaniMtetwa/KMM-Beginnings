@@ -1,0 +1,47 @@
+com.example.dailpulsepractice.android.androidApp-material-icons-core-1.4.1-0 /Users/thulanimtetwa/.gradle/caches/transforms-3/02726a3ee620d79f94d063001dcb40f9/transformed/material-icons-core-1.4.1/res
+com.example.dailpulsepractice.android.androidApp-lifecycle-viewmodel-savedstate-2.6.1-1 /Users/thulanimtetwa/.gradle/caches/transforms-3/0963f9dda434ac64b2e8feab32f305e6/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.dailpulsepractice.android.androidApp-savedstate-ktx-1.2.1-2 /Users/thulanimtetwa/.gradle/caches/transforms-3/16fed9f85ed1dd99fe9bf38a4f60bf9d/transformed/savedstate-ktx-1.2.1/res
+com.example.dailpulsepractice.android.androidApp-ui-tooling-release-3 /Users/thulanimtetwa/.gradle/caches/transforms-3/24bd874ce61df573607df210e501e8b3/transformed/ui-tooling-release/res
+com.example.dailpulsepractice.android.androidApp-lifecycle-viewmodel-ktx-2.6.1-4 /Users/thulanimtetwa/.gradle/caches/transforms-3/2736ceb69918fe6e452bba04790f3a24/transformed/lifecycle-viewmodel-ktx-2.6.1/res
+com.example.dailpulsepractice.android.androidApp-foundation-release-5 /Users/thulanimtetwa/.gradle/caches/transforms-3/2a4f84b9519961fe7ff9b1656d818b7e/transformed/foundation-release/res
+com.example.dailpulsepractice.android.androidApp-customview-poolingcontainer-1.0.0-6 /Users/thulanimtetwa/.gradle/caches/transforms-3/2c7ec2cc068c3a51c5a403a583be3fd8/transformed/customview-poolingcontainer-1.0.0/res
+com.example.dailpulsepractice.android.androidApp-annotation-experimental-1.3.0-7 /Users/thulanimtetwa/.gradle/caches/transforms-3/3a1a3ddee716b014e226e36855ccaa87/transformed/annotation-experimental-1.3.0/res
+com.example.dailpulsepractice.android.androidApp-material3-1.1.2-8 /Users/thulanimtetwa/.gradle/caches/transforms-3/3ea1db79a1e9cca6b927f124cbb0b03d/transformed/material3-1.1.2/res
+com.example.dailpulsepractice.android.androidApp-ui-graphics-release-9 /Users/thulanimtetwa/.gradle/caches/transforms-3/4a76e5d5fdb076da15f2c113fe4e86d8/transformed/ui-graphics-release/res
+com.example.dailpulsepractice.android.androidApp-startup-runtime-1.1.1-10 /Users/thulanimtetwa/.gradle/caches/transforms-3/4e9730313b30ea98a5cdf91421e13346/transformed/startup-runtime-1.1.1/res
+com.example.dailpulsepractice.android.androidApp-material-1.4.1-11 /Users/thulanimtetwa/.gradle/caches/transforms-3/58837e8f252c9a16da6ba5e9d0823cb0/transformed/material-1.4.1/res
+com.example.dailpulsepractice.android.androidApp-ui-tooling-data-release-12 /Users/thulanimtetwa/.gradle/caches/transforms-3/66696ba06b570df8fc970546f29507dd/transformed/ui-tooling-data-release/res
+com.example.dailpulsepractice.android.androidApp-ui-geometry-release-13 /Users/thulanimtetwa/.gradle/caches/transforms-3/67993e938caf525549107efdc2a4d266/transformed/ui-geometry-release/res
+com.example.dailpulsepractice.android.androidApp-core-ktx-1.10.0-14 /Users/thulanimtetwa/.gradle/caches/transforms-3/769e04ce05cbb001d70598ab1e3a9bd3/transformed/core-ktx-1.10.0/res
+com.example.dailpulsepractice.android.androidApp-savedstate-1.2.1-15 /Users/thulanimtetwa/.gradle/caches/transforms-3/83fd359ce6b8212bdd23d164a203673c/transformed/savedstate-1.2.1/res
+com.example.dailpulsepractice.android.androidApp-core-runtime-2.2.0-16 /Users/thulanimtetwa/.gradle/caches/transforms-3/8b70e8ccd74053e0a63f58f2759dd3f2/transformed/core-runtime-2.2.0/res
+com.example.dailpulsepractice.android.androidApp-material-ripple-1.4.1-17 /Users/thulanimtetwa/.gradle/caches/transforms-3/8eca0a8c2006184528425c61000fb4a2/transformed/material-ripple-1.4.1/res
+com.example.dailpulsepractice.android.androidApp-ui-release-18 /Users/thulanimtetwa/.gradle/caches/transforms-3/9cc9f75df1333180c0324d126ccf88a1/transformed/ui-release/res
+com.example.dailpulsepractice.android.androidApp-lifecycle-viewmodel-2.6.1-19 /Users/thulanimtetwa/.gradle/caches/transforms-3/a9690caa04c462e3a90d6c01a5333d9c/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.dailpulsepractice.android.androidApp-runtime-release-20 /Users/thulanimtetwa/.gradle/caches/transforms-3/a9a56fc2b3b1e3a18c0cf8969e77211a/transformed/runtime-release/res
+com.example.dailpulsepractice.android.androidApp-profileinstaller-1.3.0-21 /Users/thulanimtetwa/.gradle/caches/transforms-3/b0735ea9a9b24facf6699454ef58020a/transformed/profileinstaller-1.3.0/res
+com.example.dailpulsepractice.android.androidApp-emoji2-1.4.0-22 /Users/thulanimtetwa/.gradle/caches/transforms-3/b97ab3ecadd6bce959ac3c1f1c15b983/transformed/emoji2-1.4.0/res
+com.example.dailpulsepractice.android.androidApp-ui-text-release-23 /Users/thulanimtetwa/.gradle/caches/transforms-3/be0d0c463c95fddf0a1343f63df3cf1b/transformed/ui-text-release/res
+com.example.dailpulsepractice.android.androidApp-ui-unit-release-24 /Users/thulanimtetwa/.gradle/caches/transforms-3/bec14bf9f18f6f9363898ca49e2f9ad2/transformed/ui-unit-release/res
+com.example.dailpulsepractice.android.androidApp-activity-compose-1.8.0-25 /Users/thulanimtetwa/.gradle/caches/transforms-3/c4a20957149192a8f0b3e489e2b053de/transformed/activity-compose-1.8.0/res
+com.example.dailpulsepractice.android.androidApp-animation-release-26 /Users/thulanimtetwa/.gradle/caches/transforms-3/cca168050d0ecd5f704d9c09dae0a53d/transformed/animation-release/res
+com.example.dailpulsepractice.android.androidApp-activity-1.8.0-27 /Users/thulanimtetwa/.gradle/caches/transforms-3/cd62d73f80bfdea746571836dd9d8d35/transformed/activity-1.8.0/res
+com.example.dailpulsepractice.android.androidApp-activity-ktx-1.8.0-28 /Users/thulanimtetwa/.gradle/caches/transforms-3/d0900d34b6539dcb9b7ff44d7c8d337c/transformed/activity-ktx-1.8.0/res
+com.example.dailpulsepractice.android.androidApp-lifecycle-livedata-core-2.6.1-29 /Users/thulanimtetwa/.gradle/caches/transforms-3/d3425acd7e4a515ae212c0a625776423/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.dailpulsepractice.android.androidApp-core-1.10.0-30 /Users/thulanimtetwa/.gradle/caches/transforms-3/d6656c8a43be19cd653704ddd9bf75f9/transformed/core-1.10.0/res
+com.example.dailpulsepractice.android.androidApp-lifecycle-runtime-ktx-2.6.1-31 /Users/thulanimtetwa/.gradle/caches/transforms-3/e6d7606af29d7c8650ef6a07a90f739f/transformed/lifecycle-runtime-ktx-2.6.1/res
+com.example.dailpulsepractice.android.androidApp-lifecycle-runtime-2.6.1-32 /Users/thulanimtetwa/.gradle/caches/transforms-3/e99e8f3f2b1758ec422c662ddb306157/transformed/lifecycle-runtime-2.6.1/res
+com.example.dailpulsepractice.android.androidApp-runtime-saveable-release-33 /Users/thulanimtetwa/.gradle/caches/transforms-3/ea8fee5f4576f797af28aabe309e631d/transformed/runtime-saveable-release/res
+com.example.dailpulsepractice.android.androidApp-animation-core-release-34 /Users/thulanimtetwa/.gradle/caches/transforms-3/eb97231d16d81df9bd5b89c751474a68/transformed/animation-core-release/res
+com.example.dailpulsepractice.android.androidApp-ui-tooling-preview-release-35 /Users/thulanimtetwa/.gradle/caches/transforms-3/edd744ed113d9b9133a8dd3032ea4322/transformed/ui-tooling-preview-release/res
+com.example.dailpulsepractice.android.androidApp-foundation-layout-release-36 /Users/thulanimtetwa/.gradle/caches/transforms-3/f0e2c3f0d97b7fbc0dce84a08b3077fb/transformed/foundation-layout-release/res
+com.example.dailpulsepractice.android.androidApp-lifecycle-process-2.6.1-37 /Users/thulanimtetwa/.gradle/caches/transforms-3/f726057e8d357af447a8dcfb1fbd3e5e/transformed/lifecycle-process-2.6.1/res
+com.example.dailpulsepractice.android.androidApp-ui-util-release-38 /Users/thulanimtetwa/.gradle/caches/transforms-3/fb26b78a364588ef1c783d4337bc5f64/transformed/ui-util-release/res
+com.example.dailpulsepractice.android.androidApp-pngs-39 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/generated/res/pngs/debug
+com.example.dailpulsepractice.android.androidApp-resValues-40 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/generated/res/resValues/debug
+com.example.dailpulsepractice.android.androidApp-packageDebugResources-41 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.dailpulsepractice.android.androidApp-packageDebugResources-42 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.dailpulsepractice.android.androidApp-merged_res-43 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/intermediates/merged_res/debug
+com.example.dailpulsepractice.android.androidApp-debug-44 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/src/debug/res
+com.example.dailpulsepractice.android.androidApp-main-45 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/src/main/res
+com.example.dailpulsepractice.android.androidApp-packaged_res-46 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/build/intermediates/packaged_res/debug

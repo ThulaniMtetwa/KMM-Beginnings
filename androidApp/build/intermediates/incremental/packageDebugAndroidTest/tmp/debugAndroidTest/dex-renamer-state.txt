@@ -1,0 +1,4 @@
+#Sun Feb 18 17:04:54 SAST 2024
+base.0=/Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/androidApp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

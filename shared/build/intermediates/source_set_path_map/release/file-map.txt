@@ -1,0 +1,9 @@
+com.example.dailpulsepractice.shared-pngs-0 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/build/generated/res/pngs/release
+com.example.dailpulsepractice.shared-resValues-1 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/build/generated/res/resValues/release
+com.example.dailpulsepractice.shared-mergeReleaseResources-2 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.dailpulsepractice.shared-mergeReleaseResources-3 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.dailpulsepractice.shared-merged_res-4 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/build/intermediates/merged_res/release
+com.example.dailpulsepractice.shared-androidMain-5 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/src/androidMain/res
+com.example.dailpulsepractice.shared-androidRelease-6 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/src/androidRelease/res
+com.example.dailpulsepractice.shared-main-7 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/src/main/res
+com.example.dailpulsepractice.shared-release-8 /Users/thulanimtetwa/Documents/2024/January/Practical/KMM Practical/shared/src/release/res
