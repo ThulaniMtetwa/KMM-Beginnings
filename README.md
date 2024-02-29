@@ -1,8 +1,6 @@
-
-## Progress So far
-
 # KMM-Beginnings
 
+## Progress So far
 - Section 1 - Completed
 - Section 2 - Completed
 - Section 3 - Inprogress
